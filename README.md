@@ -1,9 +1,9 @@
 
 # Sanctions on Belarus
 
-_Idea:_  [Gianna Grün](https://gcgruen.github.io), [Sandra Petersmann](https://twitter.com/PetersmannS)
-_Research, data analysis and data visualization:_  [Sandra Petersmann](https://twitter.com/PetersmannS), [Michel Penke](https://michelpenke.de)
-_Writing:_  [Sandra Petersmann](https://twitter.com/PetersmannS), [Michel Penke](https://michelpenke.de)
+_Idea:_  [Gianna Grün](https://gcgruen.github.io), [Sandra Petersmann](https://twitter.com/PetersmannS)\
+_Research, data analysis and data visualization:_  [Sandra Petersmann](https://twitter.com/PetersmannS), [Michel Penke](https://michelpenke.de)\
+_Writing:_  [Sandra Petersmann](https://twitter.com/PetersmannS), [Michel Penke](https://michelpenke.de)\
 
 **Read the full articles on DW.com:**
 - [XXX](https://www.dw.com/en/xxx)
