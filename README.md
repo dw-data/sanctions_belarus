@@ -3,7 +3,7 @@
 
 _Idea:_  [Gianna Grün](https://gcgruen.github.io), [Sandra Petersmann](https://twitter.com/PetersmannS)\
 _Research, data analysis and data visualization:_  [Sandra Petersmann](https://twitter.com/PetersmannS), [Michel Penke](https://michelpenke.de)\
-_Writing:_  [Sandra Petersmann](https://twitter.com/PetersmannS), [Michel Penke](https://michelpenke.de)\
+_Writing:_  [Sandra Petersmann](https://twitter.com/PetersmannS), [Michel Penke](https://michelpenke.de)
 
 **Read the full articles on DW.com:**
 - [XXX](https://www.dw.com/en/xxx)
@@ -41,6 +41,7 @@ The database has been merged with the Democracy Matrix of the Julius-Miximilians
 | 0.25 - 0.5 | moderate autocracy |
 | 0.5 - 0.75 | deficient democracy |
 | 0.75 - 1 | functioning democracy |
+
 Based on this classification the expected values of success have been calculated for each group. To point out the decrease of success rate for "hard autocracy" their values got compared to the weighted average of all other groups. 
 
 ![](graphics/280_de_sanctions_authoritarian.png)
