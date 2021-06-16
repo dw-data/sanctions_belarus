@@ -31,7 +31,7 @@ The first part of the analysis calculated the success rate of so-called targeted
 
 Since targeted sanctions became a thing after the Iraqi humanitarian sanction crises only sanctions starting in 1995 have been counted. All sanctions that were totally and partially successful have been summarized as "successful". 
 
-![](graphics/279_de_sanctions_targeted.png)
+![](graphics/279_en_sanctions_targeted.png)
 
 _Caveats: The classification as successful is disputed. Many sanctions do not clearly state their goal, nor is there any evaluation process done by the sanctioning nations. Furthermore, it is difficult to decide whether a sanction has really caused a political change or had no impact on it while other factors have actually caused the success. As a matter of fact, the Global Sanction Data Base does not check whether a sanction actually has been the reason for a political success but marks it as succesful as soon as the goal has been achieved ([read more: The Global Sanctions Data Base, 2.3 Success of Sanctions](https://yotoyotov.com/files/GSDB_FKSYY_v13.pdf)). This may result in a false positive distortion and an overvaluation of sanctions. Nevertheless, there is no better-known approach to classify the sanctions' outcome since the "real" impact of sanctions on political change is nearly impossible to measure. Most times, it is very unlikely that those, who give in on the sanction's pressure and who are, by nature, the only ones who could surely rate the sanction's influence, may admit that they did so forced by others. This could most often result in a loss of political reputation. Additionally, the database of the Institut für Weltwirtschaft is widely accepted in the academic community._
 ### Comparing sanction's success rate with democracy score
@@ -45,9 +45,9 @@ The database has been merged with the Democracy Matrix of the Julius-Miximilians
 
 Based on this classification the expected values of success have been calculated for each group. To point out the decrease of success rate for "hard autocracy" their values got compared to the weighted average of all other groups. 
 
-![](graphics/280_de_sanctions_authoritarian.png)
+![](graphics/280_en_sanctions_authoritarian.png)
 
 ### Belarus' sanctions history
 To visualize the history of Belarus and the sanctions aimed at it the Democracy Matrix Score was visualized as a line chart with additional time periode bars. Sanctions that may overlap each other have not been marked as different ones. 
  
-![](graphics/281_de_sanctions_belarus.png)
+![](graphics/281_en_sanctions_belarus.png)
