@@ -7,7 +7,7 @@ _Data analysis and data visualization:_  [Michel Penke](https://michelpenke.de)\
 _Writing:_  [Sandra Petersmann](https://twitter.com/PetersmannS), [Michel Penke](https://michelpenke.de)
 
 **Read the full articles on DW.com:**
-- [XXX](https://www.dw.com/en/xxx)
+- [Why are sanctions against Belarus not more effective?](https://www.dw.com/en/why-are-sanctions-against-belarus-not-more-effective/a-57931877)
 
 Modern sanctions have been a tool in international relationships since WWII. While their number has increased dramatically, their design has changed. Instead of attacking the whole economy special vulnerabilities are in the focus of politics. 
 
